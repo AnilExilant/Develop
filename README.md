@@ -1,5 +1,3 @@
 # Develop
 Develop project
-hello world
-
-HIIshakti 
+Hii Team
